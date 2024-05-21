@@ -21,8 +21,8 @@ Pour exécuter ce projet localement, suivez ces étapes :
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/votre_nom_utilisateur/suivi-nutritionnel.git
-    cd suivi-nutritionnel
+    git clone https://github.com/SambreVan/Nutrition.git
+    cd Nutrition
     ```
 
 2. Installez les dépendances :
